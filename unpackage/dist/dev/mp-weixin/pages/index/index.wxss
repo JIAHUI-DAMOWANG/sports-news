@@ -1,0 +1,11 @@
+
+.uni-media-list-body { height: auto;
+}
+.uni-media-list-text-top { line-height: 1.6em;
+}
+.uni-media-list-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ccc;
+}
