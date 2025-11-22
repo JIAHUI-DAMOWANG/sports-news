@@ -1,3 +1,4 @@
+//202311000544杨佳慧计工本2301
 <template>
   <view class="content">
     <view class="uni-list">
@@ -24,8 +25,7 @@ export default {
     };
   },
   onLoad() {
-    // 使用 NewsAPI 获取体育新闻（请替换 YOUR_API_KEY）
-    const apiKey = 'YOUR_API_KEY'; // ← 从 https://newsapi.org 获取
+    const apiKey = 'YOUR_API_KEY';
     const url = `https://newsapi.org/v2/top-headlines?category=sports&country=us&apiKey=${apiKey}`;
 
    uni.request({
