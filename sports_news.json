@@ -1,17 +1,20 @@
 [
   {
     "title": "中国队夺得亚洲杯冠军！",
-    "urlToImage": "https://picsum.photos/seed/sports1/40/40",
-    "publishedAt": "2025-11-21T14:30:00Z"
+    "urlToImage": "https://via.placeholder.com/40x40?text=SPORTS",
+    "publishedAt": "2025-11-20T18:30:00Z",
+    "post_id": "1"
   },
   {
     "title": "NBA总决赛G7：湖人逆转夺冠",
-    "urlToImage": "https://picsum.photos/seed/nba/40/40",
-    "publishedAt": "2025-11-19T18:15:00Z"
+    "urlToImage": "https://via.placeholder.com/40x40?text=NBA",
+    "publishedAt": "2025-11-19T09:15:00Z",
+    "post_id": "2"
   },
   {
     "title": "CBA季后赛：广东队晋级决赛",
-    "urlToImage": "https://picsum.photos/seed/cba/40/40",
-    "publishedAt": "2025-11-20T10:00:00Z"
+    "urlToImage": "https://via.placeholder.com/40x40?text=CBA",
+    "publishedAt": "2025-11-18T15:30:00Z",
+    "post_id": "3"
   }
 ]
